@@ -1,2 +1,2 @@
-# software_engeneering
-School project
+# School project
+
